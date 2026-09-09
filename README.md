@@ -41,3 +41,5 @@ The site's architecture is tied to the Next.js build hash. If the site receives 
 * Обнови страницу.
 * Найди системный запрос, совпадающий с названием раздела (например, pets?_rsc=... или petwear?_rsc=...).
 * Скопируй набор символов после _rsc= (например, Q2bj4kji....) и вставь его в конфиг парсера.
+
+🔥 Using baseless values type! Other - not supported.
